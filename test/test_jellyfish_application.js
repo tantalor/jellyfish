@@ -11,7 +11,7 @@ var MY_STRING_FORMAT_PARAM_0;
 var MY_STRING_FORMAT_PARAM_1;
 var MY_WRONG_STRING_FORMAT_BLOOM = 0;
 
-QUnit.test('jqunit-spec submodule present', function() {
+QUnit.test('qunit-spec submodule present', function() {
   QUnit.ok(QUnit.context);
 });
 
